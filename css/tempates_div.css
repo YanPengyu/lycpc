@@ -1,0 +1,433 @@
+.head {width: 100%;margin: 0 auto;padding: 0px;position: relative; background:url('../images/lincc_012.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_012.jpg*/ no-repeat center top;}
+.top{ width: 1000px; margin:0px auto;}
+.box{ width: 1000px; margin:0px auto; display:table;}
+.head .logo {width: 1000px;margin: 0 auto;height: 120px;background: none;}
+.menubotton {height: 43px;width: 1000px;margin: 0 auto;background: url('../images/lincc_04.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_04.jpg*/ no-repeat center top;}
+.menu {height: 43px;width: 1000px;margin: 0 auto;background:none;}
+.menu .menuleft {width: 160px;height: 43px;background: none;}
+.menu .menuright {width: 0px;height: 43px;background: none;}
+.pro{ width: 96%; margin:0px auto; padding-top: 48px;}
+
+.box1{ width: 1000px; margin:0px auto;}
+.box11{ background:url('../images/lincc_07.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_07.jpg*/ no-repeat center top; width: 297px; height: 250px; float:left;}
+.box12{background:url('../images/lincc_08.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_08.jpg*/ no-repeat center top; width: 424px; height: 250px; float:left;}
+.box13{background:url('../images/lincc_09.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_09.jpg*/ no-repeat center top; width: 279px; height: 250px; float:left;}
+.box2{width: 1000px; margin:0px auto; background:url('../images/lincc_11.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_11.jpg*/ no-repeat center top; height: 225px; clear:both;}
+
+.video-detail{ width: 211px; height: 144px; padding-left: 30px; padding-top: 63px; padding-right: 38px;}
+
+
+/*sysmenu.css*/
+ul.topnav {list-style: none;margin: 0 auto;padding: 0px;height: 43px;line-height: 43px;overflow: hidden;}
+ul.topnav li {float: left;margin: 0;}
+ul.topnav li{text-decoration: none;float: left;color: #000;cursor: pointer;*position: relative;z-index: 999;}
+ul.topnav li span{height: 43px;line-height: 43px;padding:0px 13px 0px 13px;color: #fff;font-weight: bold;text-transform: uppercase;display: block;*display: inline-block;}
+ul.topnav li span.bgmenuhove2 {height: 43px;line-height: 43px;color:#eddc0b;background: url('../images/lincc_041.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_041.jpg*/ no-repeat center top;}
+/*nov_tree*/
+ul.topnav li ul.subnav {list-style: none;position: absolute;top:163px;*top:44px;*left: 0px;background: #002b5e;margin: 0;padding: 0;width: 85px;color: #fff;z-index: 999;display: none;}
+ul.topnav li ul.subnav li{margin: 0;clear: both;padding:0px;height: 35px;line-height: 35px;text-align: left;cursor: pointer;text-transform: uppercase;}
+ul.subnav li a{padding:0px 15px 0px 15px;height:35px;line-height: 35px;text-align: left;width: 55px;display: block;float: left;background-color: #a2181e}
+ul.subnav li a:hover{height:35px;line-height: 35px;text-align: left;display: block;float: left;background-color: #730d12;}
+ul.subnav li a.hover{height:35px;line-height: 35px;text-align: left;display: block;float: left;}
+.bann {width: 942px;margin: 0 auto;margin-top: 5px;}
+.bann1 {width: 100%;margin: 0 auto;margin-top: 0px;}
+#slider ul, #slider li {margin: 0;padding: 0;list-style: none;width: 942px;height: 254px;overflow: hidden;}
+.framecenter {width: 1000px;margin: 0 auto;}
+
+.location {width: auto;padding-left: 27px;height: 63px;line-height: 63px;background: url('../images/main_07-02.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/main_07-02.jpg*/ no-repeat center top;}
+
+.frameleft{float:left;width:801px;}
+.frameright{float: left;width:199px; background:url('../images/main_07-03.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/main_07-03.jpg*/ repeat-y center top;}
+.aboutcontent{width:100%;height:100px;background:none; padding-top: 128px;}
+.aboutcontent .fcontentstr {height:100px;padding: 13px;overflow: hidden;}
+.frameleft .fup {width: 682px;height: 39px;line-height: 39px;background: url('../images/conent_bg_01.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/conent_bg_01.jpg*/ repeat-x;background-position: 0px 0px;}
+.frameleft .fcontent {width: 100%;padding: 0px;background: url('../images/conent_bg_01.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/conent_bg_01.jpg*/ repeat-y;background-position: -682px 0px;overflow: hidden;}
+.frameleft .fdown{width: 682px;height:4px;background-color: #b9e5fa;overflow: hidden;}
+
+.frameleft .fcontent1 {width: 100%;padding: 10px;background: url('../images/conent_bg_02.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/conent_bg_02.jpg*/ repeat-y;background-position: -682px 0px;overflow: hidden;}
+.frameleft .fdown1 {width: 682px;height:4px;background-color: #b9e5fa;overflow: hidden;}
+
+.frameleft .fup2 {width: 682px;height: 39px;line-height: 39px;background: url('../images/conent_bg_03.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/conent_bg_03.jpg*/ repeat-x;background-position: 0px 0px;}
+.frameleft .fcontent2 {width: 100%;padding: 10px;background: url('../images/conent_bg_03.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/conent_bg_03.jpg*/ repeat-y;background-position: -682px 0px;overflow: hidden;}
+.frameleft .fdown2 {width: 682px;height:4px;background-color: #faceb9;overflow: hidden;}
+
+.frameleft .fup .spantitle,.fup1 .spantitle,.fup2 .spantitle {float: left;padding-left:35px;text-align: center;font-size: 14px;font-weight: bold;}
+.frameleft .fup .spanmone, .fup1 .spanmone, .fup2 .spanmone {float: right;padding-right: 10px;}
+
+.frameright .fup {width: 199px;height: 39px;line-height: 39px;background: url('../images/content_250_bg.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg.jpg*/ repeat-x;background-position: 0px 0px;}
+.frameright .fcontent {width: 230px;padding: 0px 10px 0px 10px;background: url('../images/content_250_bg.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg.jpg*/ repeat-y;background-position: -199px 0px;overflow: hidden;}
+.frameright .fdown{width: 199px;height:13px;background: url('../images/content_250_bg.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg.jpg*/ no-repeat;background-position: -500px -32px;overflow: hidden;}
+
+.frameright .fup1 {width: 199px;height: 39px;line-height: 33px;background: url('../images/content_250_bg_other.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg_other.jpg*/ repeat-x;background-position: 0px 0px;}
+.frameright .fcontent1 {width: 230px;padding: 0px 10px 5px 10px;background: url('../images/content_250_bg_other.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg_other.jpg*/ repeat-y;background-position: -199px 0px;overflow: hidden;}
+.frameright .fdown1{width: 199px;height:10px;background: url('../images/content_250_bg_other.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg_other.jpg*/ no-repeat;background-position: -500px -32px;overflow: hidden;}
+.frameright .fup2 {width: 199px;height: 39px;line-height: 33px;background: url('../images/content_250_bg_other.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg_other.jpg*/ repeat-x;background-position:  -750px 0px;}
+
+.frameright .fup3 {width: 199px;height: 63px;line-height: 63px;background: url('../images/main_07.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/main_07.jpg*/ no-repeat center top; color: #b30800;}
+.frameright .fcontent3 {width: auto;padding: 0px;background: none;overflow: hidden;}
+.frameright .fdown3{width: 199px;height:10px;background: url('../images/content_250_bg_type.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/content_250_bg_type.jpg*/ no-repeat;background-position: -500px -32px;overflow: hidden;}
+
+.frameright .fup .spantitle,.fup1 .spantitle,.fup2 .spantitle,.fup3 .spantitle {float: left;width: 150px;padding-left: 20px;text-align: left;font-size: 14px;font-weight: bold;}
+.frameright .fup .spanmone,.fup1 .spanmone,.fup3 .spanmone {float: right;padding-right: 10px;}
+/*news left pic and right list*/
+.newsleft{float: left;width:212px;}
+.newsleft ul{list-style: none;margin: 0 auto;margin-top: 5px;}
+.newsright{float: left;width:450px;}
+
+.textlist {list-style: none;margin: 0 auto;padding:0px;display: block;line-height: 200%;overflow: hidden;}
+.textlist li {padding-left: 8px;height: 25px;line-height: 25px;background: url('../images/icon3.gif')/*tpa=http://www.cbslyc.com/templates/default/images/icon3.gif*/ no-repeat 0px 10px;list-style: none;overflow: hidden; border-bottom:1px #6c6c6c dotted; height:30px; line-height:30px;}
+.textlist li .names {float: right;color: #bdbdbd;font-size: 12px;}
+
+.piclist {list-style: none;margin: 0 auto;text-align: center;padding: 0px;overflow: hidden;}
+.piclist li {float: left;padding: 5px 7px 10px 5px;text-align: center;width:167px;overflow: hidden;}
+.piclist li img {border: 0px solid #EEE;}
+.piclist li p {margin: 0px;padding: 0px;}
+.piclist li .t {height: 30px;line-height: 30px;}
+
+.link {float: left;margin: 0 auto;width: 942px;}
+.link .fotterup {width: 942px;height: 6px;background: url('../images/fotter_bg.png')/*tpa=http://www.cbslyc.com/templates/default/images/fotter_bg.png*/ no-repeat;background-position: 0px -0px;}
+.link .fottercontent {width: 942px;text-align: center;background: url('../images/fotter_bg_line.png')/*tpa=http://www.cbslyc.com/templates/default/images/fotter_bg_line.png*/ repeat-y;background-position: 0px -0px;}
+
+.linkpic {width: 920px;padding: 10px;}
+.linkpic ul {list-style: none;margin: 0 auto;padding: 0px;}
+.linkpic ul li {width: 88px;margin: 0 auto;padding-left: 3px;list-style: none;display: inline;}
+.linkfont {width: 900px;padding: 5px 10px 0px 10px;margin: 0 auto;}
+.linkfont ul {list-style: none;margin: 0 auto;padding: 0px;}
+.linkfont ul li {width: 98px;text-align: center;margin: 0 auto;padding-left: 10px;list-style: none;display: inline;}
+/*tree*/
+.three {list-style: none;margin: 0 auto;padding: 0px;margin-left: 0px;}
+.three li {height: 30px;line-height: 30px;text-align: left;margin: 0 auto;padding-left: 0px;list-style: none;border-bottom: 0px dotted #d0d0d0;overflow: hidden; text-align:center;}
+.three li.a {padding-left: 0px;text-align:center;}
+.three li.b {padding-left: 0px;background: none;display: list-item;font-weight: bold; width: auto; background: url('../images/main_07-05.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/main_07-05.jpg*/ no-repeat center top;}
+.three li:hover{ background:url('../images/main_07-04.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/main_07-04.jpg*/ no-repeat center top; color:#fff;}
+.three li.b .typelink{ padding-left: 28px; display:block;}
+
+/*pagecontent*/
+.pagecontent{float:left;width:801px;background: none;padding:0px;overflow: hidden;}
+.pagecontentstr{width:97%;background-color: #fff;padding:0px;overflow: hidden; margin:0px auto;}
+
+.pagelist {width: 96%; margin:0px auto;}
+.righttext {float: left;width: 100%;}
+.righttext_padding {margin: 0px auto;width: 97%;padding:0px;}
+.readpic {float: left;width: 225px;height: 225px;padding: 5px;}
+.readpic img {border: 1px solid #EEE;}
+
+.readtitle {float: left;width: 415px;margin-left: 10px;text-align: left;}
+.readtitle dl dt {color: #FF6600;font-size:16px;font-weight: bold;line-height: 180%;padding-left:10px;}
+.readtitle dl dd {color: #828282;height:30px;line-height: 30px;padding-left:10px;}
+.readtitle dl dd.fastline {background-color:#f8f8f8;color: #828282;height:30px;line-height: 30px;}
+.readtitle dl dd.orderbotton {padding-top:15px;}
+
+.readlist {float: left;margin: 0 auto;width: 100%;margin-top: 10px;}
+.readlist .tg {height: 48px;line-height: 48px;font-size: 14px;padding-left: 25px;font-weight: bold;background: #dddddd;}
+.readlist .tg1 {height: 48px;line-height: 48px;font-size: 14px;padding-left: 25px;font-weight: bold;background: #dddddd;}
+.readlist .tg3 {height: 38px;line-height: 38px;font-size: 14px;font-weight: bold;padding-left: 10px;border-bottom: 1px dotted #d0d0d0;}
+.readlist .l {padding: 10px 0px 0px 0px;overflow: hidden;}
+
+.bbslist{list-style: none;margin: 0 auto;padding: 0px;}
+.bbslist li{border-top: 1px dotted #d0d0d0;padding: 10px 0px 10px 0px}
+.bbslist li:first-child{border-top: 0px dotted #d0d0d0;padding:0px 0px 10px 0px}
+.bbslist li .first-child{border-top: 0px dotted #d0d0d0;padding:0px 0px 10px 0px}
+.bbslist li div{line-height: 180%;padding:0px 10px 5px 10px;}
+.bbslist li .sendname{text-align: right;}
+.bbslist li .messagelist{text-align: left;}
+.bbslist li .remessagelist{text-align: left; padding-top: 10px;padding-bottom:10px;}
+/*productlist_list*/
+.goodslist {overflow: hidden;list-style-type: none;margin: 0px auto;margin-top: 0px;}
+.goodslist li {float: left;padding: 0px 10px 0px 10px;text-align: center;width: 170px;height: 240px;overflow: hidden;}
+.goodslist li .t {height: 25px;line-height: 25px;overflow: hidden;display: list-item;}
+.goodslist li p {height: 25px;line-height: 25px;padding:0px;margin: 0px;}
+.goodslist li img {border: 2px solid #EEE;padding:5px;}
+.goodslist li img:hover {border: 2px solid #00a1d8;padding:5px;}
+
+/*newslist*/
+.newslist {list-style: none;margin: 0 auto;padding: 0px;margin-left: 10px;}
+.newslist li {height: 35px;line-height: 35px;text-align: left;margin: 0 auto;padding-left: 15px;list-style: none;background: url('../images/icon3.gif')/*tpa=http://www.cbslyc.com/templates/default/images/icon3.gif*/ no-repeat 5px 15px;border-bottom: 1px dotted #DADBD6;overflow: hidden;}
+.newslist li .data {float: right;padding-right: 10px;color: #B3B3B3;}
+
+/*linebook*/
+.gbottonlist {margin: 0 auto;width: 100%;}
+.gbottonlist .tg {height: 30px;line-height: 30px;color: #000;padding-left: 15px;font-weight: bold;background-color: #B5D4F2;}
+.gbottonlist .l {margin-top: 1px;padding: 5px;height: 100%;background-color: #F8F8F8;overflow: hidden;}
+.three_fg {width:690px;list-style: none;margin: 0 auto;padding: 0px;margin-left: 10px;}
+.three_fg li {float: left;width:330px;height: 25px;line-height: 25px;text-align: left;margin: 0 auto;padding-left: 0px;list-style: none;overflow: hidden;}
+.three_fg li.a {font-weight: bold;}
+.three_fg li.b {height: 25px;padding-left: 8px;line-height: 25px;background: url('../images/icon3.gif')/*tpa=http://www.cbslyc.com/templates/default/images/icon3.gif*/ no-repeat 0px 11px;list-style: none;display: list-item;}
+.three_fg li .title {float: left;}
+/*joblist*/
+.joblist {list-style: none;margin: 0 auto;padding: 0px;margin-left: 10px;}
+.joblist li {list-style: none;padding:10px 0px 10px 0px;border-bottom: 1px dotted #DADBD6;overflow: hidden;}
+
+.widthpage {width: 922px;margin: 0 auto; padding: 10px;}
+.widthpage .tg1 {height: 48px;line-height: 48px;font-size: 14px;padding-left: 35px;font-weight: bold;background: url('../images/readlist_bg.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/readlist_bg.jpg*/ no-repeat #B7E4FB;}
+.widthpage .tg3 {height: 38px;line-height: 38px;font-size: 14px;font-weight: bold;padding-left: 10px;border-bottom: 1px dotted #d0d0d0;}
+.widthpage .l {padding: 10px 0px 0px 0px;overflow: hidden;}
+.widthpagelist {width:922px;margin: 0 auto;}
+/*login_member*/
+.sianin .sianinbg {width: 369px;padding: 10px 0px 0px 0px;border-left: #d2e5ef 1px solid;border-right: #d2e5ef 1px solid;border-top: none;border-bottom: none;overflow: hidden;}
+.signintitle {background: url('../images/application.gif')/*tpa=http://www.cbslyc.com/templates/default/images/application.gif*/ no-repeat;background-position: left -166px;padding: 15px 0px 0px 70px;height: 29px;text-align: left;overflow: hidden;}
+.signin-area-bg {width: 361px;padding: 5px;overflow: hidden;}
+.signin-area-bg2 {padding: 0px;overflow: hidden;}
+.signin-area-bg3 {width: 251px;padding: 5px 0px 5px 110px;overflow: hidden;}
+.tipsnr {background: url('../images/login.gif')/*tpa=http://www.cbslyc.com/templates/default/images/login.gif*/ no-repeat;background-position: left -103px;height: 5px;line-height: 5px;width: 371px;overflow: hidden;}
+.messicon {height: 48px;padding-right: 10px;}
+.messtext {height: 48px;line-height: 48px;vertical-align : middle;}
+.messicon2 {height: 20px;padding-right: 10px;}
+.messtext2 {height: 20px;line-height: 20px;vertical-align : middle;}
+/*lefttab*/
+.tbottonlist {width:260px;}
+.tbottonlist .tg {height: 30px;line-height: 30px;color: #fff;padding-left: 15px;font-weight: bold;background-color: #B5D4F2;}
+.tbottonlist .l {padding: 5px;border: 1px solid #B5D4F2;}
+/*tablelist*/
+.tablelist .td01 {background-color: #F3F3F3;border: 1px solid #E6E6E6;padding: 5px;height: 30px;line-height: 30px;font-weight: bold;}
+.tablelist .td02 {border-bottom: #d2e5ef 1px dotted;padding: 5px;height: 30px;line-height: 30px;}
+.tablelist .td03 {border-style: none none solid none;border-width: 0px 0px 1px 0px;border-color: #E6E6E6;padding: 5px 5px 5px 15px;height: 30px;line-height: 30px; background: url('../images/icon1.gif')/*tpa=http://www.cbslyc.com/templates/default/images/icon1.gif*/ no-repeat 5px 16px;}
+.td03 img {vertical-align : middle;}
+.tablelist .td04 {border-style: none none solid none;border-width: 0px 0px 1px 0px;border-color: #E6E6E6;padding: 5px;height: 30px;line-height: 30px;}
+/*bbstable*/
+.tablelist .td05{border: 1px solid #F0F0F0;padding: 5px 5px 5px 10px;}
+.tablelist .td06{padding: 5px;height: 30px;line-height: 30px;}
+/*fotter*/
+.fotterpage{width:100%;margin: 0 auto;overflow: hidden;background: url('../images/lincc_12.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_12.jpg*/ repeat-x center top; height: 81px;}
+.fotter .fotterdown {width: 942px;height: 14px;background: url('../images/fotter_bg.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/fotter_bg.jpg*/ no-repeat;background-position: 0px 0px;}
+.fotter .fotterstr {width: 942px;color:#fff;text-align: center;padding: 15px 0px 10px 0px;line-height: 180%;}
+.fotter .parttype {width: 942px;text-align: center;padding: 10px 0px 0px 0px;}
+.fotter .parttype ul {width: 942px;list-style: none;margin: 0 auto;}
+.fotter .parttype ul li {padding:0px 5px 0px 5px;text-align: center;margin: 0 auto;list-style: none;display: inline;}
+
+.mobliecodestr{border:1px solid #aaa;padding:5px;margin-top: 5px;}
+
+
+@charset "UTF-8";
+
+/* SpryTabbedPanels.css - Revision: Spry Preview Release 1.4 */
+
+/* Copyright (c) 2006. Adobe Systems Incorporated. All rights reserved. */
+
+/* Horizontal Tabbed Panels
+ *
+ * The default style for a TabbedPanels widget places all tab buttons
+ * (left aligned) above the content panel.
+ */
+
+/* This is the selector for the main TabbedPanels container. For our
+ * default style, this container does not contribute anything visually,
+ * but it is floated left to make sure that any floating or clearing done
+ * with any of its child elements are contained completely within the
+ * TabbedPanels container, to minimize any impact or undesireable
+ * interaction with other floated elements on the page that may be used
+ * for layout.
+ *
+ * If you want to constrain the width of the TabbedPanels widget, set a
+ * width on the TabbedPanels container. By default, the TabbedPanels widget
+ * expands horizontally to fill up available space.
+ *
+ * The name of the class ("TabbedPanels") used in this selector is not
+ * necessary to make the widget function. You can use any class name you
+ * want to style the TabbedPanels container.
+ */
+.TabbedPanels {
+	margin: 0px;
+	padding-top: 12px;
+	padding-left: 16px;
+	padding-right: 18px;
+	float: left;
+	clear: none;
+	width: 390px; /* IE Hack to force proper layout when preceded by a paragraph. (hasLayout Bug)*/
+}
+
+/* This is the selector for the TabGroup. The TabGroup container houses
+ * all of the tab buttons for each tabbed panel in the widget. This container
+ * does not contribute anything visually to the look of the widget for our
+ * default style.
+ *
+ * The name of the class ("TabbedPanelsTabGroup") used in this selector is not
+ * necessary to make the widget function. You can use any class name you
+ * want to style the TabGroup container.
+ */
+.TabbedPanelsTabGroup {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* This is the selector for the TabbedPanelsTab. This container houses
+ * the title for the panel. This is also the tab "button" that the user clicks
+ * on to activate the corresponding content panel so that it appears on top
+ * of the other tabbed panels contained in the widget.
+ *
+ * For our default style, each tab is positioned relatively 1 pixel down from
+ * where it wold normally render. This allows each tab to overlap the content
+ * panel that renders below it. Each tab is rendered with a 1 pixel bottom
+ * border that has a color that matches the top border of the current content
+ * panel. This gives the appearance that the tab is being drawn behind the
+ * content panel.
+ *
+ * The name of the class ("TabbedPanelsTab") used in this selector is not
+ * necessary to make the widget function. You can use any class name you want
+ * to style this tab container.
+ */
+.TabbedPanelsTab {
+	position: relative;
+	font-size:14px;
+	top: 1px;
+	float: left;
+	color:#511320;
+	padding: 0px;
+	margin: 0px;
+	width: 97px;
+	height: 31px;
+	line-height:26px;
+	text-align:center;
+	backgroundr: none;
+	list-style: none;
+	border-left: solid 0px #CCC;
+	border-bottom: solid 0px #999;
+	border-top: solid 0px #999;
+	border-right: solid 0px #999;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	cursor: pointer;
+}
+
+/* This selector is an example of how to change the appearnce of a tab button
+ * container as the mouse enters it. The class "TabbedPanelsTabHover" is
+ * programatically added and removed from the tab element as the mouse enters
+ * and exits the container.
+ */
+.TabbedPanelsTabHover {
+	background: url('../images/lincc_091.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_091.jpg*/ no-repeat center top;
+	color:#f08010;
+	font-size:14px;
+}
+
+/* This selector is an example of how to change the appearance of a tab button
+ * container after the user has clicked on it to activate a content panel.
+ * The class "TabbedPanelsTabSelected" is programatically added and removed
+ * from the tab element as the user clicks on the tab button containers in
+ * the widget.
+ *
+ * As mentioned above, for our default style, tab buttons are positioned
+ * 1 pixel down from where it would normally render. When the tab button is
+ * selected, we change its bottom border to match the background color of the
+ * content panel so that it looks like the tab is part of the content panel.
+ */
+.TabbedPanelsTabSelected {
+	background: url('../images/lincc_091.jpg')/*tpa=http://www.cbslyc.com/templates/default/images/lincc_091.jpg*/ no-repeat center top;
+	border-bottom: 0px solid #EEE;
+	color:#e67911;
+	font-size:14px;
+}
+
+/* This selector is an example of how to make a link inside of a tab button
+ * look like normal text. Users may want to use links inside of a tab button
+ * so that when it gets focus, the text *inside* the tab button gets a focus
+ * ring around it, instead of the focus ring around the entire tab.
+ */
+.TabbedPanelsTab a {
+	color: black;
+	text-decoration: none;
+	
+}
+
+/* This is the selector for the ContentGroup. The ContentGroup container houses
+ * all of the content panels for each tabbed panel in the widget. For our
+ * default style, this container provides the background color and borders that
+ * surround the content.
+ *
+ * The name of the class ("TabbedPanelsContentGroup") used in this selector is
+ * not necessary to make the widget function. You can use any class name you
+ * want to style the ContentGroup container.
+ */
+.TabbedPanelsContentGroup {
+	clear: both;
+	border-left: solid 0px #CCC;
+	border-bottom: solid 0px #CCC;
+	border-top: solid 0px #999;
+	border-right: solid 0px #999;
+	background: none;
+}
+
+/* This is the selector for the Content panel. The Content panel holds the
+ * content for a single tabbed panel. For our default style, this container
+ * provides some padding, so that the content is not pushed up against the
+ * widget borders.
+ *
+ * The name of the class ("TabbedPanelsContent") used in this selector is
+ * not necessary to make the widget function. You can use any class name you
+ * want to style the Content container.
+ */
+.TabbedPanelsContent {
+	padding: 4px;
+}
+
+/* This selector is an example of how to change the appearnce of the currently
+ * active container panel. The class "TabbedPanelsContentVisible" is
+ * programatically added and removed from the content element as the panel
+ * is activated/deactivated.
+ */
+.TabbedPanelsContentVisible {
+line-height:26px;
+}
+
+/* Vertical Tabbed Panels
+ *
+ * The following rules override some of the default rules above so that the
+ * TabbedPanels widget renders with its tab buttons along the left side of
+ * the currently active content panel.
+ *
+ * With the rules defined below, the only change that will have to be made
+ * to switch a horizontal tabbed panels widget to a vertical tabbed panels
+ * widget, is to use the "VTabbedPanels" class on the top-level widget
+ * container element, instead of "TabbedPanels".
+ */
+
+/* This selector floats the TabGroup so that the tab buttons it contains
+ * render to the left of the active content panel. A border is drawn around
+ * the group container to make it look like a list container.
+ */
+.VTabbedPanels .TabbedPanelsTabGroup {
+	float: left;
+	width: 10em;
+	height: 20em;
+	background-color: #EEE;
+	position: relative;
+	border-top: solid 1px #999;
+	border-right: solid 1px #999;
+	border-left: solid 1px #CCC;
+	border-bottom: solid 1px #CCC;
+}
+
+/* This selector disables the float property that is placed on each tab button
+ * by the default TabbedPanelsTab selector rule above. It also draws a bottom
+ * border for the tab. The tab button will get its left and right border from
+ * the TabGroup, and its top border from the TabGroup or tab button above it.
+ */
+.VTabbedPanels .TabbedPanelsTab {
+	float: none;
+	margin: 0px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+/* This selector disables the float property that is placed on each tab button
+ * by the default TabbedPanelsTab selector rule above. It also draws a bottom
+ * border for the tab. The tab button will get its left and right border from
+ * the TabGroup, and its top border from the TabGroup or tab button above it.
+ */
+.VTabbedPanels .TabbedPanelsTabSelected {
+	background-color: #EEE;
+	border-bottom: solid 1px #999;
+}
+
+/* This selector floats the content panels for the widget so that they
+ * render to the right of the tabbed buttons.
+ */
+.VTabbedPanels .TabbedPanelsContentGroup {
+	clear: none;
+	float: left;
+	padding: 0px;
+	width: 30em;
+	height: 20em;
+}
+

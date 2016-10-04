@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <title>Title</title>
+
+    <script type="text/javascript"></script>
+    <style>
+        *{margin:0;padding:0}
+        li{list-style: none;}
+        .tanchu{width:200px;position: fixed;border:1px solid #ccc;border-bottom:none;left:0;top:400px;}
+        .tanchu ul{width:100%;}
+        .tanchu ul li{height:40px;line-height: 40px;text-align:center;color:#000;font-size:24px;border-bottom:1px solid #ccc;}
+        .tanchu .tuijian{width:40px;height:100px;background:blue;position:absolute;right:-40px;top:0;color:white;font-size:30px;text-align:center;}
+    </style>
+    <script>
+        window.onload=function(){
+            //事件的发生对象推荐2
+            var flag=true;
+            var count=0;
+
+            getId("tuijian").onclick=function(){
+                if(flag){
+                    function jianshao(){
+
+                        count-=10;
+                        if(count<=-200){
+                          clearInterval(getId("tuijian").timer)
+                        }
+
+                        getId("tanchu").style.left=count+"px";
+                    }
+
+                    getId("tuijian").timer=setInterval(jianshao,10)
+
+                    this.getElementsByTagName("p")[0].innerHTML="&gt;"
+                }else{
+
+                    function zengjia(){
+
+                        count+=10;
+                        if(count>=0){
+                            clearInterval(getId("tuijian").timer)
+                        }
+
+                        getId("tanchu").style.left=count+"px";
+                    }
+
+                    getId("tuijian").timer=setInterval(zengjia,10)
+
+
+                    this.getElementsByTagName("p")[0].innerHTML="&lt;"
+
+                }
+
+                flag=!flag;
+
+            }
+
+
+        }
+        function getId(id){
+
+            return typeof id==="string"?document.getElementById(id):id;
+        }
+
+    </script>
+
+</head>
+<body>
+      <div class="tanchu" id="tanchu">
+          <ul>
+              <li>上海房价</li>
+              <li>火星时代学前端</li>
+              <li>火星时代学UI</li>
+              <li>火星时代学游戏</li>
+              <li>火星时代学动漫</li>
+              <li>火星时代学原画</li>
+          </ul>
+          <div class="tuijian" id="tuijian">
+              <p>&lt;</p>
+              推荐
+          </div>
+      </div>
+</body>
+</html>
